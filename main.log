@@ -1,0 +1,25 @@
+367 행: pl 컨트롤의 WMPLibCtl.WindowsMediaPlayer 클래스는 로드한 컨트롤 클래스가 아닙니다.
+373 행: pl의 URL 속성 이름이 잘못되었습니다. 
+374 행: pl의 rate 속성 이름이 잘못되었습니다. 
+375 행: pl의 balance 속성 이름이 잘못되었습니다. 
+376 행: pl의 currentPosition 속성 이름이 잘못되었습니다. 
+377 행: pl의 defaultFrame 속성 이름이 잘못되었습니다. 
+378 행: pl의 playCount 속성 이름이 잘못되었습니다. 
+379 행: pl의 autoStart 속성 이름이 잘못되었습니다. 
+380 행: pl의 currentMarker 속성 이름이 잘못되었습니다. 
+381 행: pl의 invokeURLs 속성 이름이 잘못되었습니다. 
+382 행: pl의 baseURL 속성 이름이 잘못되었습니다. 
+383 행: pl의 volume 속성 이름이 잘못되었습니다. 
+384 행: pl의 mute 속성 이름이 잘못되었습니다. 
+385 행: pl의 uiMode 속성 이름이 잘못되었습니다. 
+386 행: pl의 stretchToFit 속성 이름이 잘못되었습니다. 
+387 행: pl의 windowlessVideo 속성 이름이 잘못되었습니다. 
+389 행: pl의 enableContextMenu 속성 이름이 잘못되었습니다. 
+390 행: pl의 fullScreen 속성 이름이 잘못되었습니다. 
+391 행: pl의 SAMIStyle 속성 이름이 잘못되었습니다. 
+392 행: pl의 SAMILang 속성 이름이 잘못되었습니다. 
+393 행: pl의 SAMIFilename 속성 이름이 잘못되었습니다. 
+394 행: pl의 captioningID 속성 이름이 잘못되었습니다. 
+395 행: pl의 enableErrorDialogs 속성 이름이 잘못되었습니다. 
+396 행: pl의 _cx 속성 이름이 잘못되었습니다. 
+397 행: pl의 _cy 속성 이름이 잘못되었습니다. 
